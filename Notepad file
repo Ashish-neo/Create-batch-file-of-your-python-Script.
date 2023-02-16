@@ -1,0 +1,3 @@
+@echo off
+python "C:\Users\Ashish.Kumar\PycharmProjects\Linked Web Scraping With Webpage\main.py"
+pause
