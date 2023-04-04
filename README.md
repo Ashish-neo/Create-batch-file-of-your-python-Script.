@@ -1,4 +1,4 @@
-# Create-bat-file-of-your-python-Script.
+# Create-batch-file-of-your-python-Script.
 
 To create a batch file for your Python script, you can follow these steps:
 
